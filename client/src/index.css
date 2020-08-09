@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+    font-family: Georgia, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+.sansserif {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+code {
+  font-family: Georgia, serif;
+}
